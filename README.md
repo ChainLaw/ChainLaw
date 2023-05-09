@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm ChainLaw!👋
+
+- 🎓 An undergraduate majoring in Computer Science at Wuhan University of Technology (WUT) since 2020.
+- 📫 Contact with me via [Email](mailto:chainlaw0@gmail.com).
 
 <!--
 **ChainLaw/ChainLaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
